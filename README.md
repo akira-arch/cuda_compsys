@@ -5,7 +5,7 @@
 - nvcc
 
 ```
-git clone
+git clone https://github.com/akira-arch/cuda_compsys.git
 ```
 
 ```
